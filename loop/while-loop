@@ -1,0 +1,13 @@
+fun main(args Array<String>) {
+	var i:Int = 0
+
+	while (i < 5) {
+		println("in while loop, Value of i is: $i")
+		i++
+	}
+
+	do {
+		println("in do while value of i is: $i")
+		i++
+	} while(i < 10)
+}
