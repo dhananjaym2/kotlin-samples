@@ -1,4 +1,4 @@
-un main(args: Array<String>) {
+fun main(args: Array<String>) {
 	var i: Int = 8
 	var f: Float = 657f
 	var b: Boolean = true
